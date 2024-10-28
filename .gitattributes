@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+art export-ignore
+.gitattributes export-ignore
+README.md export-ignore

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="MCMSettings_Name" text="Mod Yapılandırma Menüsü {VERSION}"/>
+    <string id="BaseSettings_Default" text="Varsayılan"/>
+    <string id="SettingsPropertyGroupDefinition_Misc" text="Çeşitli"/>
+    <!-- UI -->
+    <string id="dzeWx4xSfR" text="MCM'den Uyarı!" />
+    <string id="FE6ya1gzZR" text="{REQUIRED_MODULE} modülü bulunamadı!" />
+    <string id="EvI6KPAqTT" text="Uyumsuz modül {DENIED_MODULE} bulundu!" />
+    <string id="5G9zffrgMh" text="{MODULE}, {DEPENDENT_MODULE}’den önce yüklendi!{NL} {MODULE}'nin bunun ardından yüklendiğinden emin olun!" />
+    <string id="UZ8zfvudMs" text="{MODULE}, {DEPENDENT_MODULE}’den sonra yüklendi!{NL} {MODULE}'nin bunun önünde yüklendiğinden emin olun!" />
+    <string id="FcR4BXnhx8" text="{MODULE}, {REQUIRED_MODULE} için karşılıklı olarak hariç tutulan mod sırası talimatları belirledi!" />
+    <string id="eXs6FLm5DP" text="Şu anda oyunu sonlandırmanız şiddetle tavsiye edilir. Oyunu sonlandırmak ister misiniz?" />
+    <string id="fGt6Gthg5y" text="Bu MCM sürümü v1.0.0 ve üzeri için tasarlanmıştır! Şu anda {GAMEVERSION} sürümünü kullanıyorsunuz!" />
+
+    <string id="MCMUISettings_Name" text="MCM UI {VERSION}"/>
+    <string id="ModOptionsVM_NotSpecified" text="Mod Adı Belirtilmedi"/>
+    <string id="ModOptionsVM_Name" text="Mod Seçenekleri"/>
+    <string id="ModOptionsVM_ChangeToPreset" text="'{PRESET}' ön ayarına değiştir"/>
+    <string id="ModOptionsVM_Discard" text="{NAME} için mevcut ayarları '{ITEM}' olarak atmak istediğinizden emin misiniz?"/>
+    <string id="ModOptionsVM_RestartTitle" text="Oyun Yeniden Başlatılmalı"/>
+    <string id="ModOptionsVM_RestartDesc" text="Mod ayar değişikliklerini uygulamak için oyunun yeniden başlatılması gerekiyor. Oyunu şimdi kapatmak ister misiniz?"/>
+    <string id="SettingsPropertyGroupVM_Disabled" text="{GROUPNAME} (Devre Dışı)"/>
+    <string id="SettingsVM_Custom" text="Özel"/>
+    <string id="ModOptionsPageView_Mods" text="Modlar"/>
+    <string id="MainMenu_ModOptions" text="Mod Seçenekleri"/>
+    <string id="EscapeMenu_ModOptions" text="Mod Seçenekleri"/>
+    <string id="MCMUISettings_Name" text="MCM UI Uygulaması {VERSION}"/>
+    <string id="MCMUISettings_Name_General" text="Genel"/>
+    <string id="MCMUISettings_Name_HideMainMenuEntry" text="Ana Menü Girişi Gizle"/>
+    <string id="MCMUISettings_Name_HideMainMenuEntryDesc" text="MCM'nin Ana Menü 'Mod Seçenekleri' Menü Girişini gizler."/>
+    <string id="ButterLibSettings_Name" text="ButterLib {VERSION}"/>
+    <string id="ButterLibSettings_Name_Logging" text="Günlükleme"/>
+    <string id="ButterLibSettings_Name_LogLevel" text="Günlük Seviyesi"/>
+    <string id="ButterLibSettings_Name_LogLevelDesc" text="Yazılacak günlüklerin seviyesi."/>
+
+    <string id="ModOptionsVM_SaveAsPreset" text="Ön Ayar Olarak Kaydet"/>
+    <string id="ModOptionsVM_SaveAsPresetDesc" text="Ön ayarın adını seçin"/>
+    <string id="ModOptionsVM_OverridePreset" text="Ön Ayar Zaten Mevcut"/>
+    <string id="ModOptionsVM_OverridePresetDesc" text="Ön ayar zaten mevcut! Üzerine yazmak ister misiniz?"/>
+    <string id="ModOptionsVM_ManagePresets" text="Ön Ayarları Yönet"/>
+    <string id="ModOptionsVM_ManagePresetsImport" text="Yeni Bir Ön Ayar İçe Aktar"/>
+    <string id="ModOptionsVM_ManagePresetsExport" text="Ön Ayar '{PRESETNAME}' Dışa Aktar"/>
+    <string id="ModOptionsVM_ManagePresetsDelete" text="Ön Ayar '{PRESETNAME}' Sil"/>
+    <string id="ModOptionsVM_SaveAsPresetError" text="Ön ayar '{PRESETNAME}' kaydedilemedi!"/>
+    <string id="ModOptionsVM_Unavailable" text="Ayarlar yalnızca bir Oyun Oturumu içinde kullanılabilir!"/>
+    <string id="ModOptionsVM_ManagePacks" text="Ayar Paketlerini Yönet"/>
+    <string id="ModOptionsVM_ManagePackImport" text="Bir Ayar Paketini İçe Aktar"/>
+    <string id="ModOptionsVM_ManagePackExport" text="Ayar Paketini Dışa Aktar"/>
+
+    <string id="HOV8WIcBrb" text="Mod Seçenekleri Değerini Varsayılan Olarak Sıfırla"/>
+    <string id="2d99VmOZZH" text="Mod Seçenekleri menüsündeki bir değeri üzerine geldiğinde varsayılan değerine sıfırlar."/>
+  </strings>
+</base>
